@@ -1,6 +1,6 @@
 # Satellite_DA
 
-This repository hosts multiple tools for satellite data‐assimilation purposes.  
+This repository hosts multiple tools for satellite data assimilation purposes.  
 Currently available:
 
 - **non‐gaussian‐errors/**  
